@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Learning Record Store",
+  "description": "Enterprise-grade xAPI Learning Record Store with real-time learner analytics, customizable RBAC, automated reports, audit trails, and multi-platform synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
